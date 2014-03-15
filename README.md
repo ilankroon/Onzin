@@ -10,9 +10,11 @@ In de map 'NL' kan je bestanden vinden die vertaal moeten worden. Via de 'edit'-
 
 
 Voorbeeld:
+
 'delete_item_confirm'	=>		'Are you sure you want to delete this item?'
 
 Vertaald:
+
 'delete_item_confirm'	=>		'Weet je het heel zeker dat je dit item wilt verwijderen?'
 
 
