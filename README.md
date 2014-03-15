@@ -4,7 +4,7 @@ Onzin
 Onzinnige dingen die we samen doen.
 
 
--Hoe kan ik mee helpen met vertalen.
+Hoe kan ik mee helpen met vertalen.
 =====
 In de map 'NL' kan je bestanden vinden die vertaal moeten worden. Via de 'edit'-knop kan je bestanden aanpassen. Je moet alleen het tweede gedeelte in de apostrof(') te vertalen.
 
@@ -21,5 +21,6 @@ Vertaald:
 'delete_item_confirm'	=>		'Weet je het heel zeker dat je dit item wilt verwijderen?'
 
 
-Vertaal nooit het eerst gedeelte. Dan maak je de website kapot maken!
+Vertaal nooit het eerst gedeelte. 
 =====
+Dan maak je de website kapot maken!
