@@ -24,3 +24,9 @@ Vertaald:
 Vertaal nooit het eerst gedeelte. 
 =====
 Dan maak je de website kapot maken!
+
+
+Tips en hacks
+=====
+* Als je aanhalingsteken (') gebruikt in de tekst zet er een backslash voor het aanhalingsteken. (pizza/'s, z/'n, Ilan/'s, etc.)
+* Gebruik :username als je gebruikersnaam wilt laten zien.
