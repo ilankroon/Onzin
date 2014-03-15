@@ -12,14 +12,14 @@ return array(
 	*/
 
 
-	'point'				=>		'Point',
-	'points'			=>		'Points',
-	'how' 				=> 		'How to Earn Points',
-	'here_is_how'		=>		'Here is how you earn points',
-	'earn_points_1' 	=>		'Every day you login you will receive 1 point',
-	'earn_points_2' 	=>		'Every upload you submit you will receive 1 point (max 5 per day)',
-	'earn_points_3' 	=>		'Every time you leave a comment you will receive 1 point (max 5 per day)',
-	'leaderboards'		=>		'Leaderboards',
-	'user_points'		=>		':username\'s Points',
-	'view_leaderboards'	=>		'View the Leaderboards',
+	'point'				=>		'Onzinnigheid',
+	'points'			=>		'Onzinnigheden',
+	'how' 				=> 		'Hoe kom ik aan onzinnigheid',
+	'here_is_how'		=>		'Zo kan je je onzinnigheid verdienen',
+	'earn_points_1' 	=>		'Voor elke dag dat je inlogt verdien je 1 onzinnigheid',
+	'earn_points_2' 	=>		'Voor elke upload die instuurd verdien je 1 onzinnigheid (maximaal 5 per dag)',
+	'earn_points_3' 	=>		'Elke keer als je een reactie achter laat verdien je 1 onzinnigheid (maximaal 5 per dag)',
+	'leaderboards'		=>		'Algemeen klassement',
+	'user_points'		=>		':username\'s Onzinnigheid',
+	'view_leaderboards'	=>		'Bekijk het algemeen klassement',
 );
