@@ -11,12 +11,12 @@ return array(
 	|
 	*/
 
-	'category'				=>		'Category',
-	'categories' 			=> 		'Categories',
-	'category_total'		=>		'Total Media per Category',
-	'category_new'			=>		'New Category',
-	'select_category'		=>		'Select A Category',
-	'new_category_success'	=>		'Successfully added new category.',
-	'update_success'		=>		'Successfully updated category.',
-	'delete_success'		=>		'Successfully deleted category.',
+	'category'				=>		'Categorie',
+	'categories' 			=> 		'Categorieen',
+	'category_total'		=>		'Totale Media per Categorie',
+	'category_new'			=>		'Nieuwe Categorie',
+	'select_category'		=>		'Selecteer een Categorie',
+	'new_category_success'	=>		'Categorie succesvol toegevoegd.',
+	'update_success'		=>		'Categorie succesvol geupdate.',
+	'delete_success'		=>		'Categorie succesvol verwijderd.',
 );
