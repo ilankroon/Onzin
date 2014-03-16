@@ -14,7 +14,7 @@ return array(
 	'admin'						=>		'Admin',
 	'site_settings'				=>		'Website Instellingen',
 	'website_name'				=>		'Naam website',
-	'website_description'		=>		'Website descriptie',
+	'website_description'		=>		'Website beschrijving',
 	'logo'						=>		'Logo',
 	'favicon'					=>		'Favicon',
 	'color_scheme'				=>		'Kleurschema',
